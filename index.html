@@ -24,6 +24,64 @@
             --line: rgba(173, 138, 63, 0.35);
             --shadow: 0 30px 70px -25px rgba(8, 25, 48, 0.55);
         }
+        /* ---------- MOBILE RESPONSIVE ---------- */
+        @media (max-width: 640px) {
+            .gate-card {
+                padding: 32px 22px 28px;
+                max-width: 100%;
+            }
+            .college-name { font-size: 22px; }
+            .portal-title { font-size: 19px; }
+            .reg-input { font-size: 15px; padding: 12px 14px; }
+
+            .result-screen { padding: 20px 12px 40px; }
+            .topbar { justify-content: center; text-align: center; }
+            .brandmini { flex-direction: column; text-align: center; }
+            .back-link { width: 100%; text-align: center; }
+
+            .certificate-inner { padding: 22px 14px 18px; }
+            .cert-header { flex-direction: column; align-items: flex-start; gap: 14px; }
+            .cert-header-left { flex-direction: column; align-items: flex-start; gap: 10px; }
+            .cert-college { font-size: 18px; }
+            .seal-stamp { align-self: center; width: 72px; height: 72px; }
+            .seal-stamp svg { width: 72px; height: 72px; }
+
+            .student-block { grid-template-columns: 1fr; gap: 14px; }
+            .student-field .v { font-size: 17px; }
+            .student-field .v.mono { font-size: 13.5px; word-break: break-all; }
+
+            .status-banner { font-size: 12.5px; padding: 10px 12px; }
+            .sem-title { font-size: 15px; }
+
+            table.course-table thead { display: none; }
+            table.course-table,
+            table.course-table tbody,
+            table.course-table tr,
+            table.course-table td { display: block; width: 100%; }
+            table.course-table tr { border-bottom: 1px solid var(--line); padding: 10px 0; }
+            table.course-table td { padding: 4px 2px; border-bottom: none; }
+            table.course-table td::before {
+                content: attr(data-label);
+                display: block;
+                font-size: 10px;
+                letter-spacing: .08em;
+                text-transform: uppercase;
+                color: var(--ink-soft);
+                font-weight: 600;
+                margin-bottom: 2px;
+            }
+            .code-cell { font-size: 13px; }
+
+            .cert-footer { flex-direction: column; align-items: stretch; }
+            .footnote { max-width: 100%; }
+            .print-btn { width: 100%; }
+        }
+
+        @media (max-width: 380px) {
+            .college-name { font-size: 19px; }
+            .portal-title { font-size: 17px; }
+            .cert-college { font-size: 16px; }
+        }
 
         * {
             box-sizing: border-box;
@@ -815,16 +873,16 @@
                 let semHTML = '';
                 sems.forEach(sem => {
                     const rows = bySem[sem].map(c => `
-                        <tr>
-                            <td class="code-cell">${c.code}</td>
-                            <td>${c.name}</td>
-                            <td>${typeLabel(c.type)}</td>
-                            <td><span class="badge">
-                                <span class="grade-letter">${c.result}</span>
-                                <svg width="11" height="11" viewBox="0 0 24 24" fill="none"><path d="M5 13l4 4L19 7" stroke="#3f6b4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                Completed
-                            </span></td>
-                        </tr>`).join('');
+                    <tr>
+                        <td class="code-cell" data-label="Course Code">${c.code}</td>
+                        <td data-label="Course Title">${c.name}</td>
+                        <td data-label="Type">${typeLabel(c.type)}</td>
+                        <td data-label="Grade / Status"><span class="badge">
+                            <span class="grade-letter">${c.result}</span>
+                            <svg width="11" height="11" viewBox="0 0 24 24" fill="none"><path d="M5 13l4 4L19 7" stroke="#3f6b4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            Completed
+                        </span></td>
+                    </tr>`).join('');
                     semHTML += `
                         <div class="sem-group">
                             <h3 class="sem-title">Semester ${sem}</h3>

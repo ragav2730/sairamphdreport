@@ -1,0 +1,1409 @@
+[
+  {
+    "reg": "24224997109",
+    "name": "Jerina B",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSEL203",
+        "name": "Information Retrieval Techniques",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25123997148",
+    "name": "Vasudevan G",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL210",
+        "name": "Electric Vehicles and Power Management",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25123997182",
+    "name": "Jaganadhan M",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PPEEL210",
+        "name": "Electric Vehicles and Power Management",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "3",
+        "code": "24PCDPC301",
+        "name": "Research Methodology",
+        "type": "TA",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25124997308",
+    "name": "Vijayan A",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSPC203",
+        "name": "Cloud Computing Technologies",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC204",
+        "name": "Big Data Analytics",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25134997177",
+    "name": "Gunasekar M",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSPC203",
+        "name": "Cloud Computing Technologies",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC204",
+        "name": "Big Data Analytics",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25141997137",
+    "name": "Dhanasekar R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PISPC202",
+        "name": "Computer Aided Hazard Analysis",
+        "type": "T",
+        "result": "A"
+      },
+      {
+        "semester": "2",
+        "code": "24PISPC203",
+        "name": "Electrical safety",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PISPC205",
+        "name": "Machine Learning and Artificial Intelligence for Industrial Safety",
+        "type": "T",
+        "result": "A"
+      },
+      {
+        "semester": "2",
+        "code": "24PISPC201",
+        "name": "Fire Engineering and Explosion Control",
+        "type": "T",
+        "result": "A"
+      }
+    ]
+  },
+  {
+    "reg": "25143997189",
+    "name": "KamalaKannan R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSPC202",
+        "name": "Security Practices",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC201",
+        "name": "Network Design and Technologies",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25144997295",
+    "name": "Christal Anand S",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSPC202",
+        "name": "Security Practices",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC203",
+        "name": "Cloud Computing Technologies",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25214997478",
+    "name": "Saranya S",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSPC203",
+        "name": "Cloud Computing Technologies",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCNEL209",
+        "name": "Mobile and Pervasive Computing",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25224997207",
+    "name": "Sakthieshwari D",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSPC202",
+        "name": "Security Practices",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PPEEL202",
+        "name": "Soft Computing Technique",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC201",
+        "name": "Foundations of Data Science",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25227997103",
+    "name": "Manimegalai K",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC201",
+        "name": "Foundations of Data Science",
+        "type": "T",
+        "result": "A"
+      }
+    ]
+  },
+  {
+    "reg": "25234997115",
+    "name": "Kavinilavu A",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC201",
+        "name": "Foundations of Data Science",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25234997260",
+    "name": "Kalpana D",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "25234997328",
+    "name": "Prasanthi T",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC201",
+        "name": "Foundations of Data Science",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "25237991165",
+    "name": "Kaviyam K",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PISPC202",
+        "name": "Computer Aided Hazard Analysis",
+        "type": "T",
+        "result": "A"
+      }
+    ]
+  },
+  {
+    "reg": "25237997234",
+    "name": "Jayasri R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PISPC202",
+        "name": "Computer Aided Hazard Analysis",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25243997126",
+    "name": "Rajalakshmi K",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSPC203",
+        "name": "Cloud Computing Technologies",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "25243997176",
+    "name": "Krithika Kamalam",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL216",
+        "name": "Wind Energy Conversion Systems",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "25244797504",
+    "name": "Ilakkiya J",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC202",
+        "name": "Big Data Security",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "25244991128",
+    "name": "Nirmala Deve P",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "1",
+        "code": "24PBDPC102",
+        "name": "Big Data Mining and Analytics",
+        "type": "TA",
+        "result": "A"
+      },
+      {
+        "semester": "1",
+        "code": "24PBDMC101",
+        "name": "Research Methodology and IPR",
+        "type": "TA",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25244997126",
+    "name": "Suganya R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC201",
+        "name": "Foundations of Data Science",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "25244997186",
+    "name": "Midhunadharshini G",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL216",
+        "name": "Wind Energy Conversion Systems",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC201",
+        "name": "Foundations of Data Science",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "25244997211",
+    "name": "Vigneshwari M",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSPC203",
+        "name": "Cloud Computing Technologies",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCNEL209",
+        "name": "Mobile and Pervasive Computing",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "25244997244",
+    "name": "Prathipa S",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC201",
+        "name": "Foundations of Data Science",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "25244997263",
+    "name": "Shiny A",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "25244997322",
+    "name": "Alagammal S",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC201",
+        "name": "Foundations of Data Science",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25244997443",
+    "name": "Nandhini G",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSPC203",
+        "name": "Cloud Computing Technologies",
+        "type": "T",
+        "result": "A"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "25249997262",
+    "name": "Nivetha D",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL202",
+        "name": "Soft Computing Technique",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25249997267",
+    "name": "Tamezheneal R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSEL203",
+        "name": "Information Retrieval Techniques",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC204",
+        "name": "Big Data Analytics",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "25249997273",
+    "name": "Suganya J",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCOPC202",
+        "name": "MIC and RF System Design",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCOPC201",
+        "name": "Advanced Wireless Communication Systems",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "25257997186",
+    "name": "Chitra R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCDPC202",
+        "name": "Advanced Finite Element Analysis",
+        "type": "T",
+        "result": "A"
+      }
+    ]
+  },
+  {
+    "reg": "26122991147",
+    "name": "Babu K",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCDPC202",
+        "name": "Advanced Finite Element Analysis",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26122991186",
+    "name": "Ramkumar R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCDPC202",
+        "name": "Advanced Finite Element Analysis",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26124991432",
+    "name": "Subramani R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC201",
+        "name": "Network Design and Technologies",
+        "type": "T",
+        "result": "B+"
+      }
+    ]
+  },
+  {
+    "reg": "26127991124",
+    "name": "Vishwa M",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL210",
+        "name": "Electric Vehicles and Power Management",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26132991168",
+    "name": "Raghupathy C",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCDPC202",
+        "name": "Advanced Finite Element Analysis",
+        "type": "T",
+        "result": "A"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A"
+      }
+    ]
+  },
+  {
+    "reg": "26133991147",
+    "name": "Kandan K",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL202",
+        "name": "Soft Computing Technique",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26142191221",
+    "name": "Esra V",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCDEL205",
+        "name": "Mechatronics Application in Manufacturing",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCDPC201",
+        "name": "Design for Manufacture, Assembly and Environments",
+        "type": "T",
+        "result": "A"
+      }
+    ]
+  },
+  {
+    "reg": "26144991171",
+    "name": "Naveen D",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "26144991297",
+    "name": "Sivakumar V",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26144991330",
+    "name": "Yuvaraj G",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCNPC202",
+        "name": "Wireless Technologies",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26147991248",
+    "name": "Mohamed Azharudeen",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL210",
+        "name": "Electric Vehicles and Power Management",
+        "type": "T",
+        "result": "A"
+      }
+    ]
+  },
+  {
+    "reg": "26149991242",
+    "name": "Vairamanikandan G",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PESPC202",
+        "name": "Pervasive Devices and Technology",
+        "type": "T",
+        "result": "B+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A"
+      }
+    ]
+  },
+  {
+    "reg": "26223991168",
+    "name": "Illakiya P",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL202",
+        "name": "Soft Computing Technique",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PPEEL210",
+        "name": "Electric Vehicles and Power Management",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26224991199",
+    "name": "Keerthana B",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC202",
+        "name": "Big Data Security",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDEL201",
+        "name": "High Performance Computing",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26224991305",
+    "name": "Abinaya K",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC201",
+        "name": "Foundations of Data Science",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26224991374",
+    "name": "Sangeetha V",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26229991324",
+    "name": "Stella N",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL202",
+        "name": "Soft Computing Technique",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PPEEL210",
+        "name": "Electric Vehicles and Power Management",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26233991148",
+    "name": "Thamilarasi J",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL202",
+        "name": "Soft Computing Technique",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "26233991166",
+    "name": "Roshini R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL202",
+        "name": "Soft Computing Technique",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PPEEL216",
+        "name": "Wind Energy Conversion Systems",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PCOPC204",
+        "name": "Advanced Digital Signal Processing",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26234991223",
+    "name": "Tharani Chitra U",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSEL203",
+        "name": "Information Retrieval Techniques",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC204",
+        "name": "Big Data Analytics",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26234991278",
+    "name": "Karthikadevi V",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC204",
+        "name": "Big Data Analytics",
+        "type": "T",
+        "result": "A"
+      }
+    ]
+  },
+  {
+    "reg": "26234991362",
+    "name": "Vanaja T",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC201",
+        "name": "Foundations of Data Science",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "26237991234",
+    "name": "Meena R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL210",
+        "name": "Electric Vehicles and Power Management",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26239991131",
+    "name": "Dhivya V",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSPC203",
+        "name": "Cloud Computing Technologies",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC204",
+        "name": "Big Data Analytics",
+        "type": "T",
+        "result": "A"
+      }
+    ]
+  },
+  {
+    "reg": "26243991112",
+    "name": "Srimathy G",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL202",
+        "name": "Soft Computing Technique",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PCOPC204",
+        "name": "Advanced Digital Signal Processing",
+        "type": "T",
+        "result": "B+"
+      }
+    ]
+  },
+  {
+    "reg": "26243991160",
+    "name": "Selvi A",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL216",
+        "name": "Wind Energy Conversion Systems",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26243991161",
+    "name": "Ganimozhi T",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL202",
+        "name": "Soft Computing Technique",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PPEEL210",
+        "name": "Electric Vehicles and Power Management",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26243991188",
+    "name": "Aravindini K G",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PESPC202",
+        "name": "Pervasive Devices and Technology",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26243991204",
+    "name": "Sandhiya M",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEEL210",
+        "name": "Electric Vehicles and Power Management",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26244191261",
+    "name": "Pavithra R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCNEL209",
+        "name": "Mobile and Pervasive Computing",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26244391470",
+    "name": "Susitra K",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSEL203",
+        "name": "Information Retrieval Techniques",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC204",
+        "name": "Big Data Analytics",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26244991252",
+    "name": "Esther C",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PESPC204",
+        "name": "Internet of Things",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  },
+  {
+    "reg": "26244991275",
+    "name": "Valarmathi C",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC201",
+        "name": "Network Design and Technologies",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26244991296",
+    "name": "Benita Jaslin R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC204",
+        "name": "Big Data Analytics",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26244991378",
+    "name": "Jegatha R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC201",
+        "name": "Foundations of Data Science",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26244991393",
+    "name": "Geedtha M K",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCNPC202",
+        "name": "Wireless Technologies",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26247991172",
+    "name": "Supriya R",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PCSPC202",
+        "name": "Security Practices",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PBDPC203",
+        "name": "Machine Learning Techniques",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSEL203",
+        "name": "Information Retrieval Techniques",
+        "type": "T",
+        "result": "A+"
+      },
+      {
+        "semester": "2",
+        "code": "24PCSPC201",
+        "name": "Network Design and Technologies",
+        "type": "T",
+        "result": "A+"
+      }
+    ]
+  },
+  {
+    "reg": "26253991134",
+    "name": "Dhanu Sree M",
+    "program": "Ph.D",
+    "courses": [
+      {
+        "semester": "2",
+        "code": "24PPEPC202",
+        "name": "Solid State DC Drives",
+        "type": "T",
+        "result": "S"
+      },
+      {
+        "semester": "2",
+        "code": "24PPEEL202",
+        "name": "Soft Computing Technique",
+        "type": "T",
+        "result": "S"
+      }
+    ]
+  }
+]
